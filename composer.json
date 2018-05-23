@@ -3,6 +3,7 @@
     "description": "this is a test please do not download",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "qiuxinshu",
